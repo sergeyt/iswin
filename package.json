@@ -1,0 +1,16 @@
+{
+  "name": "iswin",
+  "version": "0.0.1",
+  "description": "Nodejs function to detect windows platform",
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sergeyt/iswin.git"
+  },
+  "contributors": [
+    "Sergey Todyshev <stodyshev@gmail.com>"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
