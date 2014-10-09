@@ -3,3 +3,10 @@
 > Nodejs function to detect windows platform
 
 [![NPM](https://nodei.co/npm/iswin.png?downloads=true&stars=true)](https://nodei.co/npm/iswin/)
+
+## USAGE
+
+```javascript
+var iswin = require("iswin")
+console.log("running on windows", iswin())
+```
